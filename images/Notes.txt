@@ -1,2 +1,0 @@
-le css c'est le code utilisé pour mettre en forme une page web
-le css c'est un langage de feuille de style
