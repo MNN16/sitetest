@@ -1,0 +1,39 @@
+html {
+    font-size: 10px; /* px signifie 'pixels': la taille de base pour la police est désormais 10 pixels de haut  */
+    font-family: 'Open Sans', sans-serif; /* cela devrait être le reste du résultat obtenu à partir de Google fonts */
+  }
+  /* html est l'elt parent de tous les elements de la page */
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+  /* padding est l'espace autour, proche du contenu. En francais on parle de remplissage
+  Border c'est la ligne autour du padding. En francais bordure
+  margin, l'espace exterieur, autour de l'elt. En francais, marge */
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #009f6f;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+    
